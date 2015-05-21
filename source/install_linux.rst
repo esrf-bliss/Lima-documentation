@@ -5,7 +5,7 @@ Linux
 
 Prerequisite
 ````````````
-Before installing Lima on Linux plateform, you need to install the following packages :
+Before installing Lima on Linux platform, you need to install the following packages :
 
 	- Python 2.6 or more recent
 	- GCC
@@ -15,7 +15,7 @@ Before installing Lima on Linux plateform, you need to install the following pac
 
 GetIt
 `````
-As Lima is not packaged,the only way for now is to retreived it from the git repository.
+As Lima is not packaged,the only way for now is to retreive it from the git repository.
 
 **Command to get all sources:**
 
@@ -51,7 +51,7 @@ Particular version
 Stable versions of lima are tracked via Git branches and Git tags. So you can retrieve any particular version using git tools.
 Please refer to the release notes document `release notes`_ , for more information of the latest release and tags.
 
-For instance if you want to get the version 1.6.1 of Lima core, do:
+For instance if you want to get version 1.6.1 of Lima core, do:
 
 .. code-block:: bash
 
@@ -65,7 +65,7 @@ For instance if you want to get the version 1.6.1 of Lima core, do:
 
 Compilation
 ```````````
-Every think is managed by root Makefile. 
+Everything is managed by the root Makefile. 
 
 * So first generate the config.inc file.
 
@@ -114,8 +114,8 @@ Every think is managed by root Makefile.
 
 Installation
 ````````````
-Installation on Linux is pretty easy because it's managed by Makefile files.
-But those Makefile files can only be used if you have compiled everything including Python modules. Otherwise It'll failed. See :ref:`linux_compilation`
+Installation on Linux is pretty easy because it's managed by Makefile's.
+But those Makefile's can only be used if you have compiled everything including Python modules. Otherwise It'll fail. See :ref:`linux_compilation`
 
 .. code-block:: sh
 
