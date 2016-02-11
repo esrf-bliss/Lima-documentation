@@ -5,7 +5,6 @@ Windows Only
   :maxdepth: 2
 
 
-  Dexela <camera/dexela/doc/index>
   camera/perkinelmer/doc/index
   camera/pco/doc/index
   camera/roperscientific/doc/index
@@ -23,6 +22,7 @@ Linux only
   Andor SDK2 <camera/andor/doc/index>
   Andor SDK3 <camera/andor3/doc/index>
   Aviex <camera/aviex/doc/index>
+  Dexela <camera/dexela/doc/index>
   Frelon <camera/frelon/doc/index>
   Maxipix <camera/maxipix/doc/index>
   Dectris Eiger <camera/eiger/doc/index>
