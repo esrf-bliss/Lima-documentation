@@ -23,7 +23,9 @@ The latest stable branch is **core-1.6** and the latest release tag is **core-1.
 
 Please, feel free to fork/clone or download Lima at http://github.com/esrf-bliss/Lima .
 
-The release notes are available under github.com/esrf-bliss/Lima/ReleaseNotes.txt: `release notes`_ 
+For latest changes please consult the release notes:  :download:`ReleaseNotes.txt <./ReleaseNotes.txt`.
+
+(Also available under the Git repository master branch as ReleaseNotes.txt text file).
 
 .. _compilation:
 
@@ -93,5 +95,5 @@ Indices and tables
 .. _Class documentation: doxygen/html/index.html
 
 .. _pdf documentation: ../latex/Lima.pdf
-.. _release notes: ../../../ReleaseNotes.txt
+.. _release notes: ./ReleaseNotes.txt
 
