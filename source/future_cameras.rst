@@ -8,8 +8,7 @@ During the coming year, several new detector plugins will be available.
 Under development
 =================
 
-- Imxpad (ImXPAD)
-- Pixirad (INFN)
+- Hexitec
 - SVCam HR (SVS-Vistek)
 - Vieworks
 
@@ -17,8 +16,4 @@ Under development
 Foreseen
 ========
 
-- Aviex + Espia board (ESRF)
-- Quantum (linear detector)
-- Mythen 2 (Dectris)
 - Eiger (PSI)
-- Sarnoff and Dalsa + Espia board  (ESRF)

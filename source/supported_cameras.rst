@@ -36,6 +36,7 @@ Linux only
   Rayonix HS <camera/rayonixhs/doc/index>
   Ueye <camera/ueye/doc/index>
   Ultra <camera/ultra/doc/index>
+  V4l2 <camera/v4l2/doc/index>
   Xpad <camera/xpad/doc/index>
   Xspress3 <camera/xspress3/doc/index>
   Xh <camera/xh/doc/index>
