@@ -30,6 +30,7 @@ Lima can be retreived using **GitHub** for Windows. There are two ways to get Li
 The procedure to retreived is described below.
 
  - **create an account**
+
   *Launch GitHub form the desktop menu and click on "LOG IN".*
    .. image:: installation/GitHub_account_1.png
   *Click on "SIGN UP".*
@@ -40,6 +41,7 @@ The procedure to retreived is described below.
    .. image:: installation/GitHub_account_4.png   
    
  - **Get source code for ordinary user**
+
   *Launch GitHub form the desktop menu and click on "LOG IN".*
    .. image:: installation/GitHub_login_1.png
   *Enter your login and your pathword and click on "LOG IN".*
@@ -48,11 +50,14 @@ The procedure to retreived is described below.
    .. image:: installation/GitHub_login_3.png
   *Once logged, enter "https://github.com/esrf-bliss/Lima" in the address bar.*
    .. image:: installation/GitHub_login_4.png
+
   *Retrieved source code by clicking on "ZIP button".*
   
  - **Fork and clone Lima for developpers**
+
   *Launch GitHub and log in. You can modify you default storage directory by selecting "Tools/Options..." menu.*
    .. image:: installation/GitHub_login_5.png
+
   *Repeat the previous steps and create a fork by clicking on "Fork". You can now clone Lima repository on your default storage directory.*
 
 .. _windows_compilation:
@@ -64,5 +69,8 @@ Installation of Lima works on Windows XP and Windows 7.
 Installation is done by following the steps below:
  - Copy config.inc_default to config.inc in the Lima directory.
  - Configure config.inc file for used cameras.
+
   .. image:: installation/config_inc.png
+
  - Run "install.bat" from the Lima directory. Installation takes a few minutes.
+

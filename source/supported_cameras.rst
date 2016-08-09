@@ -5,9 +5,10 @@ Windows Only
   :maxdepth: 2
 
 
-  camera/perkinelmer/doc/index
-  camera/pco/doc/index
-  camera/roperscientific/doc/index
+  Hamamatsu <camera/hamamatsu/doc/index>
+  Pco <camera/pco/doc/index>
+  PerkinElmer <camera/perkinelmer/doc/index>
+  PhotonicScience <camera/photonicscience/doc/index>
 
 
 
@@ -18,8 +19,6 @@ Linux only
   :maxdepth: 2
 
   Adsc <camera/adsc/doc/index>
-  
-  Andor SDK2 <camera/andor/doc/index>
   Andor SDK3 <camera/andor3/doc/index>
   Aviex <camera/aviex/doc/index>
   Dexela <camera/dexela/doc/index>
@@ -27,9 +26,11 @@ Linux only
   Maxipix <camera/maxipix/doc/index>
   Dectris Eiger <camera/eiger/doc/index>
   Dectris Mythen <camera/mythen/doc/index>
+  Dectris Mythen 3 <camera/mythen3/doc/index>
   Dectris Pilatus 2 & 3  <camera/pilatus/doc/index>
-  imXPAD <camera/imxpad/doc/index>
+  ImXpad <camera/imxpad/doc/index>
   PointGrey <camera/pointgrey/doc/index>
+  Merlin <camera/merlin/doc/index>
   Prosilica <camera/prosilica/doc/index>
   Rayonix MarCCD <camera/marccd/doc/index>
   Rayonix HS <camera/rayonixhs/doc/index>
@@ -45,5 +46,8 @@ Windows and Linux
 .. toctree::
   :maxdepth: 2
 
+  Andor SDK2 <camera/andor/doc/index>
   Basler <camera/basler/doc/index>
+  Dexela <camera/dexela/doc/index>
+  RoperScientific (former Princeton) <camera/roperscientific/doc/index>
   Simulator <camera/simulator/doc/index>

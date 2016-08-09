@@ -181,6 +181,7 @@ Source code
 -----------
 
  - **Plug-ins directory**
+
   The source files and documentation of each new plug-in must be located under Lima/Camera as shown figure below. 
   
    .. image:: plugin_arbo.png
@@ -209,14 +210,15 @@ Source code
   - **doc** : contains at least "index.rst" for plug-in documentation. Other files such as image can be added. The minimum content of the index file is detailed in the documentation section.	
   - **Other** : Other folders can be added based on need. The contents of this file must be described in the documentation.
    
- - **Camera device**
+  - **Camera device**
+
   Once the plug-in was developed, you must create a camera device to execute all commands on the camera. This device can be developed in Python or C++. Python devices must be located on "Lima/applications/tango/camera", C++ devices on "Lima/applications/tango/LimaDetector"
   
   It is recommended that the camera device comply with the design guidelines of a TANGO device. These few rules are described below :
   
   - **Tango design guidelines**
    
-    In order to enhance the general software quality of Device Servers developed by the various institutes using Tango, a Design and Implementation Guidelines document has been written by SOLEIL. This document can be downloaded form thr URL : `http://www-controle.synchrotron-soleil.fr:8001/docs/TangoGuidelines/TangoDesignGuidelines-GB4-3.pdf `
+  In order to enhance the general software quality of Device Servers developed by the various institutes using Tango, a Design and Implementation Guidelines document has been written by SOLEIL. This document can be downloaded form thr URL : `http://www-controle.synchrotron-soleil.fr:8001/docs/TangoGuidelines/TangoDesignGuidelines-GB4-3.pdf`
 
 Class names
 ------------

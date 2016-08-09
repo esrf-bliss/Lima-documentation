@@ -10,11 +10,20 @@ Lima ( **L** ibrary for **Im** age **A** cquisition) is a project for the unifie
 
 A PDF version of this documentation is available: `pdf documentation`_
 
-Project's Specification is available :ref:`spec`
-
-If you want to be in touch with LIMA community, please send email to lima@esrf.fr. You can also subscribe to the mail-list by sending
+If you want to be in touch with LIMA community, please send email to lima@esrf.fr. You can also subscribe to the mailing-list by sending
 a message to sympa@esrf.fr with as subject *subscribe lima*.
 
+
+There is no binary package for lima today, Lima is a very active project and many developments are ongoing and available from
+github.com at github.com/esrf-bliss/Lima .
+
+However you can find stable versions track through git branches and tags on github.com. 
+
+The latest stable branch is **core-1.6** and the latest release tag is **core-1.6.1**. 
+
+Please, feel free to fork/clone or download Lima at http://github.com/esrf-bliss/Lima .
+
+The release notes are available under github.com/esrf-bliss/Lima/ReleaseNotes.txt: `release notes`_ 
 
 .. _compilation:
 
@@ -61,7 +70,7 @@ Applications
 .. toctree::
   :maxdepth: 3
 
-  applications/tango/doc/index
+  applications/tango/python/doc/index
 
 Camera plugin developer guide
 -----------------------------
@@ -84,4 +93,5 @@ Indices and tables
 .. _Class documentation: doxygen/html/index.html
 
 .. _pdf documentation: ../latex/Lima.pdf
+.. _release notes: ../../../ReleaseNotes.txt
 

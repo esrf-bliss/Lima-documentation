@@ -6,7 +6,7 @@ Tango Device Server
 Server setup
 ````````````
 
-As Tango server is provied as python script, you just have to copy the application/tango directory where you want.
+As Tango server is provided as python script, you just have to copy the application/tango/python directory where you want.
 
 - **camera directory:** contained all camera Tango device specifics so remove all none need script
 - **doc directory:** contained plugins camera documentation (exhaustive list of properties, commands and attributes)
