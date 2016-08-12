@@ -31,6 +31,7 @@ Linux only
   ImXpad <camera/imxpad/doc/index>
   PointGrey <camera/pointgrey/doc/index>
   Merlin <camera/merlin/doc/index>
+  Pixirad <camera/pixirad/doc/index>
   Prosilica <camera/prosilica/doc/index>
   Rayonix MarCCD <camera/marccd/doc/index>
   Rayonix HS <camera/rayonixhs/doc/index>
