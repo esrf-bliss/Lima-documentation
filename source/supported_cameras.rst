@@ -50,6 +50,5 @@ Windows and Linux
 
   Andor SDK2 <camera/andor/doc/index>
   Basler <camera/basler/doc/index>
-  Dexela <camera/dexela/doc/index>
   RoperScientific (former Princeton) <camera/roperscientific/doc/index>
   Simulator <camera/simulator/doc/index>
