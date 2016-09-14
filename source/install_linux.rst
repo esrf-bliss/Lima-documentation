@@ -23,7 +23,7 @@ As Lima is not packaged,the only way for now is to retreived it from the git rep
 
   seb@pcbliss01:~/$ git clone --recursive git://github.com/esrf-bliss/Lima.git
 
-**Commands for a minimum chekout to get all source needed for a particular camera:**
+**Commands for a minimum checkout to get all source needed for a particular camera:**
 
 .. code-block:: bash
 
