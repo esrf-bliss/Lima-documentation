@@ -19,7 +19,7 @@ github.com at github.com/esrf-bliss/Lima .
 
 However you can find stable versions track through git branches and tags on github.com. 
 
-The latest stable branch is **core-1.6** and the latest release tag is **core-1.6.2**. 
+The latest stable branch is **core-1.7** and the latest release tag is **core-1.7.2**. 
 
 Please, feel free to fork/clone or download Lima at http://github.com/esrf-bliss/Lima .
 
