@@ -251,13 +251,13 @@ For instance if you are using the python binding for the Prosilica camera, a cli
 
    my_prosilica_ip_address = 192.168.1.2
    # we need the camera object first
-   camera = Prosilica.camera(my_prosilica_ip_address)
+   camera = ProsilicaAcq.Camera(my_prosilica_ip_address)
 
    # create the HwInterface which needs the camera as unique parameter
    camera_interface =  ProsilicaAcq.Interface(camera)
 
    # Now create the CtControl and passed to Lima the new HwInterface
-   Control = Core.CtControl(camera_interface)
+   control = Core.CtControl(camera_interface)
 
 The camera is now under control and it can be used  to acquire images !
 First get the sub-objects for the parameter setting of the detector, acquisition, saving and more if necessary.
@@ -297,7 +297,7 @@ With the Andor camera one can set the cooling as:
    camera.setTemperatureSP(-50)
    camera.setCooler(True)
 
-   current_temp = Camera.getTemperature()
+   current_temp = camera.getTemperature()
 
 
 
