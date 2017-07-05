@@ -35,6 +35,7 @@ Linux only
   Prosilica <camera/prosilica/doc/index>
   Rayonix MarCCD <camera/marccd/doc/index>
   Rayonix HS <camera/rayonixhs/doc/index>
+  SlsDetector <camera/slsdetector/doc/index>
   Ueye <camera/ueye/doc/index>
   Ultra <camera/ultra/doc/index>
   V4l2 <camera/v4l2/doc/index>
