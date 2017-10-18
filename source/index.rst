@@ -8,7 +8,9 @@ LIMA : Library for Image Acquisition
 ====================================
 Lima ( **L** ibrary for **Im** age **A** cquisition) is a project for the unified control of 2D detectors. The aim is to clearly separate hardware specific code from common software configuration and features, like setting standard acquisition parameters (exposure time, external trigger), file saving and image processing.
 
-A PDF version of this documentation is available: `pdf documentation`_
+Lima is a C++ library  which can be used for  many different cameras. The library is also available for Python_ and it provides a PyTango_  server for remote control.
+
+The documentation is also available in `pdf`_ format.
 
 If you want to be in touch with LIMA community, please send email to lima@esrf.fr. You can also subscribe to the mailing-list by sending
 a message to sympa@esrf.fr with as subject *subscribe lima*.
@@ -37,9 +39,9 @@ Installation
 .. toctree::
   :maxdepth: 3
 
-
-  install_windows
-  install_linux
+  requirements
+  getit
+  build_install
   install_tango_device_server
 
 Howto contribute
@@ -94,6 +96,8 @@ Indices and tables
 
 .. _Class documentation: doxygen/html/index.html
 
-.. _pdf documentation: ../latex/Lima.pdf
+.. _pdf: ../latex/Lima.pdf
 .. _release notes: ./ReleaseNotes.txt
 
+.. _Python: http://python.org
+.. _PyTango: http://github.com/tango-cs/pytango

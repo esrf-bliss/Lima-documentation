@@ -1,12 +1,12 @@
 .. _tango_installation:
 
-Tango Device Server
-===================
+PyTango Device Server
+=====================
 
 Server setup
 ````````````
 
-As Tango server is provided as python script, you just have to copy the application/tango/python directory where you want.
+As PyTango_ (Tango_ for python) server is provided as python script, you just have to copy the application/tango/python directory where you want.
 
 - **camera directory:** contained all camera Tango device specifics so remove all none need script
 - **doc directory:** contained plugins camera documentation (exhaustive list of properties, commands and attributes)
@@ -120,3 +120,8 @@ You need to create a device server for Lima and another for the camera plugin. L
   The camera image can be viewed by selecting the "image_ccd" tab
   
    .. image:: installation/LimaViewerDeviceServer_9.png
+
+	      
+.. _Python: http://python.org
+.. _PyTango: http://github.com/tango-cs/pytango
+.. _Tango: http://tango-control.org
