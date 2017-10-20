@@ -31,7 +31,7 @@ Saving format dependencies:
 - cbf_
 - hdf5_
 - ccfits_
-- lz4_
+- lz4_ = 1.7.x
 - libconfig_
 
 PyTango_ server dependencies:
