@@ -11,10 +11,10 @@ Build dependencies:
 - gcc for Linux
 - Visual Studio 2008 for x86 or x64 for python2.7.x 
 - Visual Studio 2008 Express for x86 only for python2.7.x 
-- Visual Studio 2015 for x86 and x64 for pythoni >=3.5 
+- Visual Studio 2015 for x86 and x64 for python >= 3.5 
 - git_
 - cmake_ >= 3
-- gsl_: For windows, download the esrf binary package `gsl-windows`_ and install it under "c:\program files\" 
+- gsl_: For windows, download the esrf binary package `gsl-windows`_ and install it under "c:\\program files\\" 
      
 
 **Python** dependencies:
@@ -29,12 +29,12 @@ The following requirements are optional.
 Saving format dependencies:
 
 - tiff_
-- zlib_: for windows, you can download the esrf binary package `zlib-windows`_ and install it under "c:\program files\"
+- zlib_: for windows, you can download the esrf binary package `zlib-windows`_ and install it under "c:\\program files\\"
 - cbf_
 - hdf5_
 - ccfits_
 - lz4_ = 1.7.x
-- libconfig_: for windows you can download the ESRF binary package `libconfig-windows`_ and install it under "c:program files\"
+- libconfig_: for windows you can download the ESRF binary package `libconfig-windows`_ and install it under "c:\\program files\\"
 
 PyTango_ server dependencies:
 
